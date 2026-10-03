@@ -6,8 +6,8 @@
     ============================== */ 
 
     const CONFIG = Object.freeze({
-        pixelId: '1077773174971763',
-        telegramUrl: 'https://t.me/+ap6SZPgk0NQ3Nzdl',
+        pixelId: '1367982141991014',
+        telegramUrl: 'https://t.me/+jDg97EyjxAk3OWNl',
 
         // Visitor qualification
         pageViewDelayMs: 3000,
